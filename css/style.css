@@ -1,0 +1,231 @@
+.entete{
+    display: flex;
+    align-items: center;
+  
+}
+nav{
+    flex: 2;
+    text-align:center;
+    justify-content: space-between;
+}
+nav ul {
+    display: inline-block;
+    list-style: none;
+    word-spacing: 35px;
+    font-size: 30px;
+}
+nav ul li{
+    display: inline-block;
+    margin-top: 5%;
+
+}
+nav ul a{
+    text-decoration: none;
+    color: #f8f6f6;
+}
+.log{
+    margin-left: 7%;
+    font-size: 40px;
+    color: rgb(152, 232, 235);
+    cursor: pointer;
+}
+.M1{
+    margin-left: 10%;
+    margin-top: 15%;
+    color: aliceblue;
+}
+body{
+    background-color: black;
+}
+.M1 p{
+    font-size: 70px;
+cursor: pointer;
+margin-top: 5%;
+}
+.M1 h1{
+    font-size: 20px;
+    margin-top: 5%;
+    color: rgb(158, 109, 34);
+    cursor: pointer;
+}
+.contenu{
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+}
+img{
+ margin-right: 20%;
+    height: 500px;
+    margin-top: 15%;
+    border-radius: 25px;
+}
+.but1{
+    border:1px solid black;
+    background: peru;
+    width: 200px;
+    height: 70px;
+    margin-left: 8%;
+    border-radius: 20px;
+    cursor: pointer;
+    color: aliceblue;
+}
+.but2{
+    border:1px solid black;
+    background: peru;
+    width: 230px;
+    height: 70px;
+    margin-left: 5%;
+    border-radius: 20px;
+    cursor: pointer;
+    color: aliceblue;
+}
+.debut{
+    display: flex;
+    justify-content: space-between;
+   flex-wrap: wrap;
+}
+.content{
+    color: aliceblue;
+    margin-top: 10%;
+    margin-right: 15%;
+}
+.content1{
+    height: 700px;
+    margin-left: 10%;
+    cursor: pointer;
+}
+.M2{
+    font-size: 50px;
+ 
+}
+.content .link{
+    font-size: 15px;
+}
+.content label{
+    color: beige;
+}
+.but3{
+    border:1px solid black;
+    background: peru;
+    width: 300px;
+    height: 70px;
+    margin-left: 40%;
+    border-radius: 20px;
+    cursor: pointer;
+    color: aliceblue;
+}
+.foot{
+    font-family: sans-serif;
+}
+.foot{
+    background-color: rgb(34, 36, 36);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 300px;
+    width:1800px ;
+    color: #f8f6f6;
+    cursor: pointer;
+}
+.bloc1 i{
+    font-size: 20px;
+   
+}
+.bloc2 i{
+    font-size: 20px;
+    
+}
+.p1{
+    font-size: 25px;
+    
+}
+.service-list{
+   display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    color: aliceblue; 
+    text-align: center; 
+   background-color:blue;
+   cursor: pointer;
+}
+.serv{
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+.contact{
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+}
+.lab h1{
+font-size: 50px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: rgb(226, 124, 40);
+    cursor: pointer;
+    color: #f8f6f6;
+}
+.lab input{
+    width: 400px;
+    height: 80px;
+}
+.cont{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 8%;
+    font-size: 30px;
+}
+.Mprojet{
+    text-align: center;
+    color: #f8f6f6;
+}
+.projet1{
+    display: flex;
+    justify-content: space-around;
+}
+.projet2{
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.A3{
+    margin-top: 3.5%;
+    cursor: pointer;
+    margin-top: 2%;
+}
+.A4{
+    margin-top: 5.5%;
+  
+}
+ .Z{
+    width: 900px;
+    cursor: pointer;
+ 
+}
+.Z1{
+    width: 700px;
+
+}
+.W{
+    width: 600px;
+
+}
+.W1{
+    width: 900px;
+    margin-top: 20%;
+}
+.Mb{
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
+
+.blog{
+    color: #f8f6f6;
+    font-size: 25px;
+    text-align: center;
+}
